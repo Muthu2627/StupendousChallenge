@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StupendousChallenge (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "StupendousChallenge (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
